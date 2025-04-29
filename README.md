@@ -15,7 +15,7 @@
 - 🔭 Currently crafting my Portfolio with passion and precision.
 - 👨‍💻 Explore my diverse projects at https://muhammad-zaid.vercel.app/.
 - 💬 Ask me about **Web Development, UI/UX Design, Web Animation.**
-- 📫 Reach out to me at: <a href="mailto:muhammadzaid.dev@gmail.com">devrajchatribin9978@gmail.com</a>
+- 📫 Reach out to me at: <a href="mailto:muhammadzaid.dev@gmail.com">muhammadzaid.dev@gmail.com</a>
 - ⚡ Fun fact: Apart from coding, I'm also an accomplished **Artist**!
 <br>
 <br>
