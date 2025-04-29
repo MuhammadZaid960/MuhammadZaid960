@@ -12,11 +12,15 @@
 <!-- <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/muhammadzaid960/zaid_dev/main/developer.gif" height="200" width="340" />
 
-- 🔭 Currently crafting my Portfolio with passion and precision.
-- 👨‍💻 Explore my diverse projects at https://muhammad-zaid.vercel.app/.
-- 💬 Ask me about **Web Development, UI/UX Design, Web Animation.**
-- 📫 Reach out to me at: <a href="mailto:muhammadzaid.dev@gmail.com">muhammadzaid.dev@gmail.com</a>
-- ⚡ Fun fact: Apart from coding, I'm also an accomplished **Artist**!
+🚀 Building clean, responsive, and accessible web interfaces
+🎨 Passionate about UI/UX and smooth web animations
+🧠 Always learning and exploring modern web trends
+📈 Focused on performance, scalability, and best practices
+🤝 Open to collaboration and community contributions
+🔧 Automating workflows and optimizing developer experience
+🎯 Turning complex ideas into intuitive digital experiences
+🌍 Love building projects that make a real-world impact
+
 <br>
 <br>
 
