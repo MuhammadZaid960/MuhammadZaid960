@@ -10,7 +10,7 @@
 <!---------------------------- About Me ----------------------------->
 
 <!-- <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/muhammadzaid960/zaid_dev/main/developer.gif" height="200" width="340" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/muhammadzaid960/zaid_dev/main/developer.gif" height="250" width="375" />
 
 - 🚀 Building clean, responsive, and accessible web interfaces
 - 🎨 Passionate about UI/UX and smooth web animations
@@ -27,7 +27,7 @@
 
 <!---------------------------- My Skills Section ----------------------------->
 
-## 💻 Tech Backpack
+## 💻 My Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,expressjs,sass,tailwind,threejs,bootstrap,redux,figma,mongodb,postgres,mysql,git,github,postman,vscode,vercel" align="center">
 <br>
