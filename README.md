@@ -25,7 +25,7 @@
 
 ## 💻 Tech Backpack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,nodejs,expressjs,sass,tailwind,gsap,threejs,bootstrap,redux,figma,mongodb,postgres,mysql,git,github,postman,vscode,vercel" align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,expressjs,sass,tailwind,threejs,bootstrap,redux,figma,mongodb,postgres,mysql,git,github,postman,vscode,vercel" align="center">
 <br>
 
 <!--------------------------------- Social Links --------------------------------->
