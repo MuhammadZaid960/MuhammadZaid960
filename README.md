@@ -12,14 +12,14 @@
 <!-- <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/muhammadzaid960/zaid_dev/main/developer.gif" height="200" width="340" />
 
-🚀 Building clean, responsive, and accessible web interfaces
-🎨 Passionate about UI/UX and smooth web animations
-🧠 Always learning and exploring modern web trends
-📈 Focused on performance, scalability, and best practices
-🤝 Open to collaboration and community contributions
-🔧 Automating workflows and optimizing developer experience
-🎯 Turning complex ideas into intuitive digital experiences
-🌍 Love building projects that make a real-world impact
+- 🚀 Building clean, responsive, and accessible web interfaces
+- 🎨 Passionate about UI/UX and smooth web animations
+- 🧠 Always learning and exploring modern web trends
+- 📈 Focused on performance, scalability, and best practices
+- 🤝 Open to collaboration and community contributions
+- 🔧 Automating workflows and optimizing developer experience
+- 🎯 Turning complex ideas into intuitive digital experiences
+- 🌍 Love building projects that make a real-world impact
 
 <br>
 <br>
